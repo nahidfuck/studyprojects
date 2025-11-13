@@ -43,19 +43,6 @@ Notes:
 - The files `workWithFiles/contacts.json` and `workWithFiles/contactmaanager/contacts.json` are plain JSON — you can open them in a text editor to view or edit sample data.
 - If you want to persist changes made by the SQLite example, check the script to see which database filename it creates/uses (commonly a `.db` or `.sqlite` file in the same folder).
 
-## Suggested next steps / Ideas
-
-- Add README sections for each script explaining the functions they expose and sample outputs.
-- Add command-line argument parsing to the scripts (argparse) and document those flags in the README.
-- Add small unit tests (pytest) for core functions in the contact manager.
-
-## Contributing
-
-Contributions are welcome. For small repos like this, open a PR with your change and a short description of the improvement.
-
-## License
-
-No license is specified. If you want to make this repo public or share it, consider adding an open-source license such as MIT, Apache-2.0, or similar.
 
 ---
 
